@@ -1,0 +1,107 @@
+[
+    {
+        "url": "https://gitea.com/eclipsia/cloudstream/raw/branch/main/eclipsia.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "Eclipsia",
+        "internalName": "Eclipsia",
+        "authors": [
+            "Eclipsia"
+        ],
+        "description": "Curated collection of Providers",
+        "fileSize": 433721,
+        "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://cs.eclipsia.dpdns.org/img/b96b89faf5437eb2.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-06075c440e9751d3c1dfa4de8b748da2febed31c8f10b79fb21b794a190bcde8"
+    },
+    {
+        "url": "https://gitea.com/eclipsia/cloudstream/raw/branch/main/eclipsiaanime.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "EclipsiaAnime",
+        "internalName": "EclipsiaAnime",
+        "authors": [
+            "Eclipsia"
+        ],
+        "description": "AniList & Kitsu Catalog with Anime Providers",
+        "fileSize": 303947,
+        "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
+        "language": "en",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "iconUrl": "https://cs.eclipsia.dpdns.org/img/94999f14196f4f79.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d61b5a084c6a52923183833d847223cb64ab32b0545c7133b2c5719bb294a8ee"
+    },
+    {
+        "url": "https://gitea.com/eclipsia/cloudstream/raw/branch/main/eclipsiabdix.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "EclipsiaBDIX",
+        "internalName": "EclipsiaBDIX",
+        "authors": [
+            "Eclipsia"
+        ],
+        "description": "Bangladesh Only",
+        "fileSize": 223157,
+        "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://cs.eclipsia.dpdns.org/img/9338756188a56ac5.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e8d44aa2d55ce383529c4ac9cd8088bc6f932e5c2ed1f3ca660f876d50838930"
+    },
+    {
+        "url": "https://gitea.com/eclipsia/cloudstream/raw/branch/main/live.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "LiveSports",
+        "internalName": "Live",
+        "authors": [
+            "Eclipsia"
+        ],
+        "description": "Live Sports Events",
+        "fileSize": 2159527,
+        "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
+        "language": "en",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://cs.eclipsia.dpdns.org/img/92bf4dcae66ee5a0.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a4e6e34def8eeedd007b66fc722e46d59e83b027c259dac67b12288fd4397c24"
+    },
+    {
+        "url": "https://gitea.com/eclipsia/cloudstream/raw/branch/main/netmirror.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "NetMirror",
+        "internalName": "NetMirror",
+        "authors": [
+            "Eclipsia"
+        ],
+        "description": "Netflix, Prime Video, Disney+ & more",
+        "fileSize": 85013,
+        "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://cs.eclipsia.dpdns.org/img/643b959031f7c9ca.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0ba3a116736eccc17cfdc3c02a05f3e1510d629cd295209db69a32df9c428220"
+    }
+]
